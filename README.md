@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MeysamTaleei
 - 👀 I’m interested in Web Developer AND AI
-- 🌱 I’m currently learning AI
 - 📫 How to reach me : meysamtaleei1999@gmail.com
 
 <!---
